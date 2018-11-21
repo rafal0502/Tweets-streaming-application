@@ -1,0 +1,3 @@
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
