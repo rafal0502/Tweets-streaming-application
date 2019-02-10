@@ -1,5 +1,5 @@
 # Streaming tweets app
-# Tweets streaming appliaction with Dash - React wrapped in Python and Plotly.
+# Tweets streaming appliaction with Dash (react wrapped in Python) and Plotly.
 # Used SQLite Database and Lock mechanism
 
 Run appliaction:
